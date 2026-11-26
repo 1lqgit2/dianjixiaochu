@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2232665110a0545ceae3191ed2bf690d, type: 3}
+  m_Name: LevelSO113
+  m_EditorClassIdentifier: 
+  sizeWidth: 7
+  sizeHeight: 9
+  solution:
+  - posX: 4
+    posY: 4
+  - posX: 4
+    posY: 3
+  - posX: 3
+    posY: 3
+  - posX: 3
+    posY: 0
+  - posX: 3
+    posY: 1
+  - posX: 4
+    posY: 2
+  - posX: 4
+    posY: 1
+  - posX: 3
+    posY: 2
+  - posX: 1
+    posY: 0
+  - posX: 2
+    posY: 0
+  - posX: 1
+    posY: 1
+  - posX: 1
+    posY: 2
+  - posX: 0
+    posY: 1
+  - posX: 0
+    posY: 2
+  - posX: 0
+    posY: 3
+  - posX: 0
+    posY: 4
+  - posX: 1
+    posY: 3
+  - posX: 2
+    posY: 1
+  - posX: 1
+    posY: 5
+  - posX: 2
+    posY: 2
+  - posX: 2
+    posY: 3
+  - posX: 2
+    posY: 4
+  - posX: 2
+    posY: 5
+  - posX: 3
+    posY: 5
+  - posX: 3
+    posY: 4
+  - posX: 1
+    posY: 4
+  tiles:
+  - posX: 0
+    posY: 1
+    tileValue: 0
+  - posX: 0
+    posY: 2
+    tileValue: 0
+  - posX: 0
+    posY: 3
+    tileValue: 0
+  - posX: 0
+    posY: 4
+    tileValue: 0
+  - posX: 0
+    posY: 5
+    tileValue: 0
+  - posX: 0
+    posY: 6
+    tileValue: 2
+  - posX: 0
+    posY: 7
+    tileValue: 2
+  - posX: 0
+    posY: 8
+    tileValue: 2
+  - posX: 1
+    posY: 0
+    tileValue: 0
+  - posX: 1
+    posY: 1
+    tileValue: 1
+  - posX: 1
+    posY: 3
+    tileValue: 1
+  - posX: 1
+    posY: 5
+    tileValue: 1
+  - posX: 1
+    posY: 6
+    tileValue: 1
+  - posX: 1
+    posY: 7
+    tileValue: 2
+  - posX: 2
+    posY: 0
+    tileValue: 0
+  - posX: 2
+    posY: 1
+    tileValue: 1
+  - posX: 2
+    posY: 3
+    tileValue: 1
+  - posX: 2
+    posY: 4
+    tileValue: 1
+  - posX: 2
+    posY: 6
+    tileValue: 1
+  - posX: 2
+    posY: 7
+    tileValue: 2
+  - posX: 2
+    posY: 8
+    tileValue: 2
+  - posX: 3
+    posY: 0
+    tileValue: 0
+  - posX: 3
+    posY: 1
+    tileValue: 3
+  - posX: 3
+    posY: 2
+    tileValue: 2
+  - posX: 3
+    posY: 3
+    tileValue: 1
+  - posX: 3
+    posY: 6
+    tileValue: 3
+  - posX: 3
+    posY: 7
+    tileValue: 2
+  - posX: 4
+    posY: 0
+    tileValue: 0
+  - posX: 4
+    posY: 1
+    tileValue: 3
+  - posX: 4
+    posY: 3
+    tileValue: 3
+  - posX: 4
+    posY: 4
+    tileValue: 3
+  - posX: 4
+    posY: 6
+    tileValue: 3
+  - posX: 4
+    posY: 7
+    tileValue: 2
+  - posX: 4
+    posY: 8
+    tileValue: 2
+  - posX: 5
+    posY: 0
+    tileValue: 0
+  - posX: 5
+    posY: 1
+    tileValue: 3
+  - posX: 5
+    posY: 3
+    tileValue: 3
+  - posX: 5
+    posY: 5
+    tileValue: 3
+  - posX: 5
+    posY: 6
+    tileValue: 3
+  - posX: 5
+    posY: 7
+    tileValue: 2
+  - posX: 6
+    posY: 1
+    tileValue: 0
+  - posX: 6
+    posY: 2
+    tileValue: 0
+  - posX: 6
+    posY: 3
+    tileValue: 0
+  - posX: 6
+    posY: 4
+    tileValue: 0
+  - posX: 6
+    posY: 5
+    tileValue: 0
+  - posX: 6
+    posY: 6
+    tileValue: 2
+  - posX: 6
+    posY: 7
+    tileValue: 2
+  - posX: 6
+    posY: 8
+    tileValue: 2
+  saws: []
+  walls: []
+  bombs: []
+  locks: []
+  rotators: []
+  offsetX: 0
+  offsetY: 0
+  moves: 58

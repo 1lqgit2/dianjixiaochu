@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 254c2559bd8cc4e81af175ac082c85dc, type: 3}
+  m_Name: BlockConfigSO2
+  m_EditorClassIdentifier: 
+  blockSetList:
+  - directionSprite:
+    - {fileID: -1741694729, guid: 4476bc3a764d04341890dcd7bb08b063, type: 3}
+    - {fileID: -1013814393, guid: 4476bc3a764d04341890dcd7bb08b063, type: 3}
+    - {fileID: -260097907, guid: 4476bc3a764d04341890dcd7bb08b063, type: 3}
+    - {fileID: 582210653, guid: 4476bc3a764d04341890dcd7bb08b063, type: 3}
+  - directionSprite:
+    - {fileID: -2119215705, guid: 4476bc3a764d04341890dcd7bb08b063, type: 3}
+    - {fileID: -1625404050, guid: 4476bc3a764d04341890dcd7bb08b063, type: 3}
+    - {fileID: 1495893301, guid: 4476bc3a764d04341890dcd7bb08b063, type: 3}
+    - {fileID: -654041139, guid: 4476bc3a764d04341890dcd7bb08b063, type: 3}
+  - directionSprite:
+    - {fileID: -358956062, guid: 4476bc3a764d04341890dcd7bb08b063, type: 3}
+    - {fileID: -1952628267, guid: 4476bc3a764d04341890dcd7bb08b063, type: 3}
+    - {fileID: 1560743876, guid: 4476bc3a764d04341890dcd7bb08b063, type: 3}
+    - {fileID: -810200466, guid: 4476bc3a764d04341890dcd7bb08b063, type: 3}
+  - directionSprite:
+    - {fileID: -707277757, guid: 4476bc3a764d04341890dcd7bb08b063, type: 3}
+    - {fileID: 1261216316, guid: 4476bc3a764d04341890dcd7bb08b063, type: 3}
+    - {fileID: -907108089, guid: 4476bc3a764d04341890dcd7bb08b063, type: 3}
+    - {fileID: -398854790, guid: 4476bc3a764d04341890dcd7bb08b063, type: 3}

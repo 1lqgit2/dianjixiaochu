@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2232665110a0545ceae3191ed2bf690d, type: 3}
+  m_Name: LevelSO180
+  m_EditorClassIdentifier: 
+  sizeWidth: 5
+  sizeHeight: 9
+  solution:
+  - posX: 4
+    posY: 0
+  - posX: 0
+    posY: 0
+  - posX: 1
+    posY: 0
+  - posX: 3
+    posY: 0
+  - posX: 0
+    posY: 6
+  - posX: 4
+    posY: 6
+  - posX: 3
+    posY: 6
+  - posX: 1
+    posY: 6
+  - posX: 2
+    posY: 3
+  - posX: 2
+    posY: 3
+  - posX: 2
+    posY: 3
+  - posX: 4
+    posY: 2
+  - posX: 4
+    posY: 4
+  - posX: 2
+    posY: 3
+  - posX: 0
+    posY: 4
+  - posX: 2
+    posY: 3
+  - posX: 0
+    posY: 2
+  tiles:
+  - posX: 0
+    posY: 0
+    tileValue: 1
+  - posX: 0
+    posY: 1
+    tileValue: 1
+  - posX: 0
+    posY: 2
+    tileValue: 0
+  - posX: 0
+    posY: 4
+    tileValue: 2
+  - posX: 0
+    posY: 6
+    tileValue: 3
+  - posX: 0
+    posY: 8
+    tileValue: 1
+  - posX: 1
+    posY: 0
+    tileValue: 1
+  - posX: 1
+    posY: 2
+    tileValue: 3
+  - posX: 1
+    posY: 4
+    tileValue: 1
+  - posX: 1
+    posY: 5
+    tileValue: 2
+  - posX: 1
+    posY: 7
+    tileValue: 0
+  - posX: 1
+    posY: 8
+    tileValue: 2
+  - posX: 2
+    posY: 1
+    tileValue: 2
+  - posX: 2
+    posY: 3
+    tileValue: 0
+  - posX: 2
+    posY: 6
+    tileValue: 1
+  - posX: 3
+    posY: 0
+    tileValue: 3
+  - posX: 3
+    posY: 2
+    tileValue: 1
+  - posX: 3
+    posY: 4
+    tileValue: 3
+  - posX: 3
+    posY: 5
+    tileValue: 2
+  - posX: 3
+    posY: 7
+    tileValue: 0
+  - posX: 3
+    posY: 8
+    tileValue: 2
+  - posX: 4
+    posY: 0
+    tileValue: 3
+  - posX: 4
+    posY: 1
+    tileValue: 3
+  - posX: 4
+    posY: 2
+    tileValue: 0
+  - posX: 4
+    posY: 4
+    tileValue: 0
+  - posX: 4
+    posY: 6
+    tileValue: 1
+  - posX: 4
+    posY: 8
+    tileValue: 3
+  saws: []
+  walls: []
+  bombs: []
+  locks: []
+  rotators:
+  - posX: 1
+    posY: 6
+    hands: 000000000100000001000000010000000200000001000000
+    direction: 0
+  - posX: 2
+    posY: 2
+    hands: 0000000001000000010000000100000002000000010000000300000001000000
+    direction: 0
+  - posX: 3
+    posY: 6
+    hands: 0000000001000000010000000100000002000000010000000300000001000000
+    direction: 0
+  offsetX: 0
+  offsetY: 0
+  moves: 38
